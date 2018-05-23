@@ -1,0 +1,20 @@
+body {display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-align: center;
+}
+
+.counter_button {
+  margin: 15px;
+	padding: 10px;
+}
+
+
+.counter {
+  background-color: lightblue;
+  padding: 10px;
+  margin: 10px;
+  height: 150px;
+  width: 350px;
+}
